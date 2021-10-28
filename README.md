@@ -17,6 +17,6 @@
 
 This project uses REST API for displaying jobs in your screen. 
 
-<a href="https://www.themuse.com/developers/api/v2">API for this project</a> •
+<a href="https://www.themuse.com/developers/api/v2">API for this project</a> 
 
 You've done this correctly and I make sure that this project will have paramount effect on your progress learning `Flutter`
