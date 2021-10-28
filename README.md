@@ -1,16 +1,21 @@
-# restapi_app
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/iamnijat/restapi-joblist/Flutter%20CI/master)
+![GitHub forks](https://img.shields.io/github/forks/iamnijat/restapi-joblist)
+![GitHub stars](https://img.shields.io/github/stars/iamnijat/restapi-joblist)
+![GitHub watchers](https://img.shields.io/github/watchers/iamnijat/restapi-joblist)
+![GitHub contributors](https://img.shields.io/github/contributors/iamnijat/restapi-joblist)
+![GitHub last commit](https://img.shields.io/github/last-commit/iamnijat/restapi-joblist)
+![GitHub top language](https://img.shields.io/github/languages/top/iamnijat/restapi-joblist)
 
-A new Flutter project.
+# Flutter REST API JOBLIST APP
 
-## Getting Started
+![thumbnail](https://user-images.githubusercontent.com/42466886/139329296-994994cf-063e-4700-a67b-7ef25f4d12c4.png)
 
-This project is a starting point for a Flutter application.
+-------
 
-A few resources to get you started if this is your first Flutter project:
+## DETAILS for this application
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project uses REST API for displaying jobs in your screen. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.themuse.com/developers/api/v2">API for this project</a> •
+
+**Finally:** You've done entire steps correctly and I make sure that this project will have paramount effect on your progress learning `Flutter`
