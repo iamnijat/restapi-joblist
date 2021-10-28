@@ -8,7 +8,8 @@
 
 # Flutter REST API JOBLIST APP
 
-![thumbnail](https://user-images.githubusercontent.com/42466886/139329296-994994cf-063e-4700-a67b-7ef25f4d12c4.png)
+![thumbnail](https://user-images.githubusercontent.com/42466886/139329938-3e6139ce-c4e5-4ae8-a4ff-6386e76a2792.png)
+
 
 -------
 
@@ -18,4 +19,4 @@ This project uses REST API for displaying jobs in your screen.
 
 <a href="https://www.themuse.com/developers/api/v2">API for this project</a> •
 
-**Finally:** You've done entire steps correctly and I make sure that this project will have paramount effect on your progress learning `Flutter`
+You've done this correctly and I make sure that this project will have paramount effect on your progress learning `Flutter`
